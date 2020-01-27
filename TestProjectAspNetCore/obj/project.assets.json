@@ -11802,11 +11802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rkonathamx.CITINB5D44QQ2\\source\\repos\\TestProjectsRK01\\TestProjectAspNetCore\\TestProjectAspNetCore\\TestProjectAspNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\rkonathamx.CITINB5D44QQ2\\Source\\Repos\\rkghacc01\\SampleProject\\TestProjectAspNetCore\\TestProjectAspNetCore.csproj",
       "projectName": "TestProjectAspNetCore",
-      "projectPath": "C:\\Users\\rkonathamx.CITINB5D44QQ2\\source\\repos\\TestProjectsRK01\\TestProjectAspNetCore\\TestProjectAspNetCore\\TestProjectAspNetCore.csproj",
+      "projectPath": "C:\\Users\\rkonathamx.CITINB5D44QQ2\\Source\\Repos\\rkghacc01\\SampleProject\\TestProjectAspNetCore\\TestProjectAspNetCore.csproj",
       "packagesPath": "C:\\Users\\rkonathamx.CITINB5D44QQ2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rkonathamx.CITINB5D44QQ2\\source\\repos\\TestProjectsRK01\\TestProjectAspNetCore\\TestProjectAspNetCore\\obj\\",
+      "outputPath": "C:\\Users\\rkonathamx.CITINB5D44QQ2\\Source\\Repos\\rkghacc01\\SampleProject\\TestProjectAspNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
